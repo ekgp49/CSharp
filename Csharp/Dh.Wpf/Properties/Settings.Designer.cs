@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HW.Properties
+namespace Dh.Wpf.Properties
 {
 
 
